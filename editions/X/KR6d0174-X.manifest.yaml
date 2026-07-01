@@ -1,0 +1,346 @@
+canonical_identifier: bkk:krp/KR6d0174/X/v1
+canonical_location: https://kanripo.org/bkk/KR6d0174/X/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 四教儀註彙補輔宏記
+  identifiers:
+    krp: KR6d0174
+    cbeta: X57n0980
+    cbeta_old_id: X57n0980
+    authorityid: CA0002828
+    json_key: X0980
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X57/X57n0980.xml
+    old_id: X57n0980
+  edition:
+    short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6d0174_000-X.yaml, hash: 'sha256:f87744a22c2655cdd88be3d14d52a3237d2de4a72c08f378d03133817be8ea52'}
+  - {seq: 2, filename: KR6d0174_002-X.yaml, hash: 'sha256:addbe1b00e6536a90821defa84fa2fc12ed0332e25b9dc143d2a45a4c02119ad'}
+  - {seq: 3, filename: KR6d0174_003-X.yaml, hash: 'sha256:407c36e020253e25905c479117d97c040fe43c976b7ef1404dacb6b48770950d'}
+  - {seq: 4, filename: KR6d0174_004-X.yaml, hash: 'sha256:efb84fd01355b551ef313142520b59085b5052927cdc2a993beaec87bf5f1e90'}
+  - {seq: 5, filename: KR6d0174_005-X.yaml, hash: 'sha256:96758db1bf011cfc5c0ebe0553a3807a142e84fd5afbcfb61f871246968e470e'}
+  - {seq: 6, filename: KR6d0174_006-X.yaml, hash: 'sha256:5e022540e349b8017d11a4bb86613c30f28f0251c43bf6ec562bd2f8bf54c048'}
+  - {seq: 7, filename: KR6d0174_007-X.yaml, hash: 'sha256:334d712a981691e44a8cb07c4862134f083ea6ed8c94a59c3a144302576f7989'}
+  - {seq: 8, filename: KR6d0174_008-X.yaml, hash: 'sha256:fd941efe282f68df2113d856ee70b5708e4dfa225169c9fe9edc17eaa43f5e5f'}
+  - {seq: 9, filename: KR6d0174_009-X.yaml, hash: 'sha256:f355bdf98836ba3c222beae740e2acf3eb368d38ca872a4635cd4dd2ca5b3abb'}
+  - {seq: 10, filename: KR6d0174_010-X.yaml, hash: 'sha256:b1ca9bc3d0ff46f9fcde809b4e29e79c54c86895e4cfbd34a71d9b84f61196b0'}
+  - {seq: 11, filename: KR6d0174_011-X.yaml, hash: 'sha256:828d7df0eeee30ace838a60cc3fa6975b605d8a91e3cf1c8311f62d2259191c1'}
+  - {seq: 12, filename: KR6d0174_012-X.yaml, hash: 'sha256:ff4cce7ffde7c435456baeb1cd765708c515702ff6136544a0b1afb5fb1307c2'}
+  - {seq: 13, filename: KR6d0174_013-X.yaml, hash: 'sha256:eaf1cc19b97cc0cf8971985cbc66410ca98d474fa49cc3e70766fd3c5fd77fc0'}
+  - {seq: 14, filename: KR6d0174_014-X.yaml, hash: 'sha256:29c6ba0e6edf6945e6348fb7a1adb44eaa8e403473cfc68ae42890f6d5086fb8'}
+  - {seq: 15, filename: KR6d0174_015-X.yaml, hash: 'sha256:75f23a01e90feee4dcdbbd4807c6a3b165f7b7b38f8beb5997edc5aabb2e9a2f'}
+  - {seq: 16, filename: KR6d0174_016-X.yaml, hash: 'sha256:3a34dc932cb03c0b86204336f3261c63810413f37aef1e7fa1b07cd1a32ad29c'}
+  - {seq: 17, filename: KR6d0174_017-X.yaml, hash: 'sha256:cfb8bf274f34be2ab99b4cd6498242238dd816319d0eecfae7e7cb25b09ac186'}
+  - {seq: 18, filename: KR6d0174_018-X.yaml, hash: 'sha256:740766ac8fd25277d48456f420cfd34ae3891b2d453cba30d8578aeb89811000'}
+  - {seq: 19, filename: KR6d0174_019-X.yaml, hash: 'sha256:c995065662a8dd0524a31a50e2a21ad97106fbd02873db45c13c6927c18fc94d'}
+  - {seq: 20, filename: KR6d0174_020-X.yaml, hash: 'sha256:6d8e128e0f4c8570dbc250d5fde4b9ce13f163c0d08d3b42521614213dbfe7fa'}
+  - {seq: 21, filename: KR6d0174_021-X.yaml, hash: 'sha256:d6750124dbcd9e546bac45d2f5faf06b88c3a8c2010d8d3f3b3744877ab04236'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6d0174_000-X.markers.yaml, hash: 'sha256:06637e8fea3b2ec692a695c9ab08816ed2665f5cab650c3c958474a8371b8f8a'}
+  - {seq: 2, role: markers, filename: assets/KR6d0174_002-X.markers.yaml, hash: 'sha256:7d9d1b3352f7758ba05db767bd84b2b1a7d4c9316c5b0041bd55b02e24eb156a'}
+  - {seq: 3, role: markers, filename: assets/KR6d0174_003-X.markers.yaml, hash: 'sha256:825f3431d4313fd149710fc0676c6fb103d69b0c103d9f687aebde82bfd7cc67'}
+  - {seq: 4, role: markers, filename: assets/KR6d0174_004-X.markers.yaml, hash: 'sha256:8750431b7c3443f02d8d0aa60a43723b909098e3a60876b5d2fb01a1611b5e62'}
+  - {seq: 5, role: markers, filename: assets/KR6d0174_005-X.markers.yaml, hash: 'sha256:7c136043ac23825956840bc513e8ec4853c855e86bdd3003ebf7bb071e5bb452'}
+  - {seq: 6, role: markers, filename: assets/KR6d0174_006-X.markers.yaml, hash: 'sha256:74fe02bcfcae245f14289d7be79d043dfe10aabaec36a21861b0f3857e8d2ccf'}
+  - {seq: 7, role: markers, filename: assets/KR6d0174_007-X.markers.yaml, hash: 'sha256:a7eed9ba097edc0e6354a1c040ba6d1a6fe25516040c696618e57f4970263aeb'}
+  - {seq: 8, role: markers, filename: assets/KR6d0174_008-X.markers.yaml, hash: 'sha256:4166cd2a28a82c4a20166eb64e5497f1ed2301499dadbe42f1c52fe1f0566085'}
+  - {seq: 9, role: markers, filename: assets/KR6d0174_009-X.markers.yaml, hash: 'sha256:8cfcb54df8505d184713cb320aef5620137a2b3093f53bd6804891f8adb58699'}
+  - {seq: 10, role: markers, filename: assets/KR6d0174_010-X.markers.yaml, hash: 'sha256:b96de83cec16f78fa4dfa016ccf5841ffdbf189013df4613eba06addd0753bbe'}
+  - {seq: 11, role: markers, filename: assets/KR6d0174_011-X.markers.yaml, hash: 'sha256:492cce1b9083b64d4a82186bbef502fa613bdbdebce9524e9da544f0b08d9239'}
+  - {seq: 12, role: markers, filename: assets/KR6d0174_012-X.markers.yaml, hash: 'sha256:caed6c0a6783f5a7aefc41604c39be826a8cd2e2898b87e474904d50f82c5596'}
+  - {seq: 13, role: markers, filename: assets/KR6d0174_013-X.markers.yaml, hash: 'sha256:15ead30aa80003b5d23b2dca46902a84019911111445d105dde4b27b1c2421e5'}
+  - {seq: 14, role: markers, filename: assets/KR6d0174_014-X.markers.yaml, hash: 'sha256:128ba627be24852b9cafec806e56eca9eff60dc4056a2dccafd869ae3e79aedc'}
+  - {seq: 15, role: markers, filename: assets/KR6d0174_015-X.markers.yaml, hash: 'sha256:242d8ca032b871cf6edbc241595d5f4a1f6d4a431ba855f5a35a92a1e172589e'}
+  - {seq: 16, role: markers, filename: assets/KR6d0174_016-X.markers.yaml, hash: 'sha256:dad2b63e2dfc6c13df4250ac7c9e6e02091ecea46441bff80388bc5867342843'}
+  - {seq: 17, role: markers, filename: assets/KR6d0174_017-X.markers.yaml, hash: 'sha256:3cd4be070a90548312562d30692be78c85e843fae626c319409eb164efe5123e'}
+  - {seq: 18, role: markers, filename: assets/KR6d0174_018-X.markers.yaml, hash: 'sha256:d43286195d10eadbcceb130f6fbe8b64e0ee1be9d2704fc3dfa2209b6bedef8e'}
+  - {seq: 19, role: markers, filename: assets/KR6d0174_019-X.markers.yaml, hash: 'sha256:08931722fac32036f4683afdffe54da2bcefc5abed6c6ebcc9d0d218ab33fd98'}
+  - {seq: 20, role: markers, filename: assets/KR6d0174_020-X.markers.yaml, hash: 'sha256:64a992f056f43a31ebd2cfcae6bcfb895c60a6a2419fc228210f4616eee7b48a'}
+  - {seq: 21, role: markers, filename: assets/KR6d0174_021-X.markers.yaml, hash: 'sha256:08aededb9c4d8569831ba97a2fba5ac14028aa4a12686da5f4ac17809f8f8e36'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6d0174_X_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: No. 980-A 天台四教儀註彙輔宏記原序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6d0174_X_000-mulu-2
+    span:
+    - front
+    - 278
+    - 278
+  label: No. 980-B 輔宏記補訂序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6d0174_X_000-mulu-3
+    span:
+    - front
+    - 972
+    - 972
+  label: No. 980-C 輔宏記補訂自敘
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6d0174_X_000-mulu-4
+    span:
+    - front
+    - 1752
+    - 1752
+  label: 輔宏記補訂凡例
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6d0174_X_000-mulu-5
+    span:
+    - front
+    - 2217
+    - 2217
+  label: No. 980-D 新刻天台四教儀註彙補輔宏記緣起
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6d0174_X_000-mulu-6
+    span:
+    - front
+    - 2791
+    - 2791
+  label: 新刻輔宏記凡例
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6d0174_X_000-mulu-7
+    span:
+    - front
+    - 3525
+    - 3525
+  label: No. 980-E 天台四教儀註彙補輔宏記卷首
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6d0174_X_1a-juan-start
+    span:
+    - body
+    - 0
+    - 12987
+  label: 天台四教儀註彙補輔宏記卷一之上
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6d0174_X_1a-mulu-1
+    span:
+    - body
+    - 48
+    - 48
+  label: 天台四教儀註彙補輔宏記
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6d0174_X_1b-juan-start
+    span:
+    - body
+    - 0
+    - 26577
+  label: 天台四教儀註彚補輔宏記卷一之下
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6d0174_X_2a-juan-start
+    span:
+    - body
+    - 0
+    - 18088
+  label: 天台四教儀註彚補輔宏記卷二之上
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6d0174_X_2b-juan-start
+    span:
+    - body
+    - 0
+    - 11300
+  label: 天台四教儀註彚補輔宏記卷二之下
+  type: juan
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6d0174_X_3a-juan-start
+    span:
+    - body
+    - 0
+    - 19086
+  label: 天台四教儀註彚補輔宏記卷三之上
+  type: juan
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6d0174_X_3b-juan-start
+    span:
+    - body
+    - 0
+    - 16359
+  label: 天台四教儀註彚補輔宏記卷三之下
+  type: juan
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6d0174_X_4a-juan-start
+    span:
+    - body
+    - 0
+    - 19967
+  label: 天台四教儀註彚補輔宏記卷四之上
+  type: juan
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6d0174_X_4b-juan-start
+    span:
+    - body
+    - 0
+    - 11434
+  label: 天台四教儀註彚補輔宏記卷四之下
+  type: juan
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6d0174_X_5a-juan-start
+    span:
+    - body
+    - 0
+    - 13421
+  label: 天台四教儀註彚補輔宏記卷五之上
+  type: juan
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6d0174_X_5b-juan-start
+    span:
+    - body
+    - 0
+    - 16658
+  label: 天台四教儀註彚補輔宏記卷五之下
+  type: juan
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6d0174_X_6a-juan-start
+    span:
+    - body
+    - 0
+    - 19407
+  label: 天台四教儀註彚補輔宏記卷六之上
+  type: juan
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR6d0174_X_6b-juan-start
+    span:
+    - body
+    - 0
+    - 27935
+  label: 天台四教儀註彚補輔宏記卷六之下
+  type: juan
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR6d0174_X_7a-juan-start
+    span:
+    - body
+    - 0
+    - 20474
+  label: 天台四教儀註彚補輔宏記卷七之上
+  type: juan
+  level: 1
+- ref:
+    seq: 15
+    marker_id: KR6d0174_X_7b-juan-start
+    span:
+    - body
+    - 0
+    - 24375
+  label: 天台四教儀註彚補輔宏記卷七之下
+  type: juan
+  level: 1
+- ref:
+    seq: 16
+    marker_id: KR6d0174_X_8a-juan-start
+    span:
+    - body
+    - 0
+    - 15016
+  label: 天台四教儀註彚補輔宏記卷八之上
+  type: juan
+  level: 1
+- ref:
+    seq: 17
+    marker_id: KR6d0174_X_8b-juan-start
+    span:
+    - body
+    - 0
+    - 16071
+  label: 天台四教儀註彚補輔宏記卷八之下
+  type: juan
+  level: 1
+- ref:
+    seq: 18
+    marker_id: KR6d0174_X_9a-juan-start
+    span:
+    - body
+    - 0
+    - 19080
+  label: 天台四教儀註彚補輔宏記卷九之上
+  type: juan
+  level: 1
+- ref:
+    seq: 19
+    marker_id: KR6d0174_X_9b-juan-start
+    span:
+    - body
+    - 0
+    - 23278
+  label: 天台四教儀註彚補輔宏記卷九之下
+  type: juan
+  level: 1
+- ref:
+    seq: 20
+    marker_id: KR6d0174_X_10a-juan-start
+    span:
+    - body
+    - 0
+    - 13235
+  label: 天台四教儀註彚補輔宏記卷十之上
+  type: juan
+  level: 1
+- ref:
+    seq: 21
+    marker_id: KR6d0174_X_10b-juan-start
+    span:
+    - body
+    - 0
+    - 18505
+  label: 天台四教儀註彚補輔宏記卷十之下
+  type: juan
+  level: 1
+hash: sha256:7375e8a23d9a0f24d0291319c927a0eb534c5958448d01e635f8213a9a3eb8d5
